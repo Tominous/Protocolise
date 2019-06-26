@@ -1,11 +1,11 @@
-# Protocolize
+# Protocolise
 A lightweight BungeeCord protocol framework supporting items.
 ## Purpose
-Protocolize had been developed to raise the amount of game changing possibilities on BungeeCord platforms. With Protocolize it is possible to create custom inventories or interact with the player inventory itself. Protocolize is also ready for future upscaling! It is easy to self-implement custom packets using the *de.exceptionflug.protocolize.AbstractPacket* class.
+Protocolise had been developed to raise the amount of game changing possibilities on BungeeCord platforms. With Protocolise it is possible to create custom inventories or interact with the player inventory itself. Protocolize is also ready for future upscaling! It is easy to self-implement custom packets using the *de.exceptionflug.protocolize.AbstractPacket* class.
 ## Compatibility
-Protocolize has no currently known compatibility issues yet.
+Protocolise has no currently known compatibility issues yet.
 ## How To Use
-Please take a look at the examples which I made: https://github.com/Exceptionflug/protocolize/tree/master/protocolize-examples/src/main/java/de/exceptionflug/protocolize/example
+Please take a look at the examples which I made: https://github.com/Tominous/Protocolise/tree/master/protocolize-examples/src/main/java/de/exceptionflug/protocolize/example
 
 ### Maven
 Add the following repository to your pom.xml:
@@ -15,7 +15,7 @@ Add the following repository to your pom.xml:
   <url>http://mvn.exceptionflug.de/repository/exceptionflug-public/</url>
 </repository>
 ```
-This is the full portfolio of protocolize dependencies:
+This is the full portfolio of protocolise dependencies:
 ```xml
 <dependency>
   <groupId>de.exceptionflug</groupId>
